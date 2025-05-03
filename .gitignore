@@ -175,3 +175,5 @@ cython_debug/
 
 # Notebooks
 llm_quick_start.ipynb
+Demo_RAG/.lock
+Demo_RAG/collection/Demo_RAG/storage.sqlite
